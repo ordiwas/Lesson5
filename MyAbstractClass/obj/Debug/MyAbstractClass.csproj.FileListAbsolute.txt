@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\MyAbstractClass\bin\Debug\MyAbstractClass.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\MyAbstractClass\bin\Debug\MyAbstractClass.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\MyAbstractClass\bin\Debug\MyAbstractClass.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\MyAbstractClass\obj\Debug\MyAbstractClass.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\MyAbstractClass\obj\Debug\MyAbstractClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\MyAbstractClass\obj\Debug\MyAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\MyAbstractClass\obj\Debug\MyAbstractClass.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\MyAbstractClass\obj\Debug\MyAbstractClass.pdb

@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\ClubInterface\bin\Debug\ClubInterface.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\ClubInterface\bin\Debug\ClubInterface.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\ClubInterface\bin\Debug\ClubInterface.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\ClubInterface\obj\Debug\ClubInterface.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\ClubInterface\obj\Debug\ClubInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\ClubInterface\obj\Debug\ClubInterface.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\ClubInterface\obj\Debug\ClubInterface.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson5\ClubInterface\obj\Debug\ClubInterface.pdb
